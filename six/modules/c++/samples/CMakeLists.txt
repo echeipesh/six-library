@@ -15,6 +15,7 @@ add_sample(check_valid_six                      cli-c++ six.sicd-c++ six.sidd-c+
 add_sample(crop_sicd                            cli-c++ six.sicd-c++)
 add_sample(crop_sidd                            cli-c++ six.sidd-c++)
 add_sample(extract_cphd_xml                     cli-c++ cphd-c++ xml.lite-c++)
+add_sample(extract_cphd_data                    cli-c++ cphd-c++ xml.lite-c++)
 add_sample(image_to_scene                       six.sicd-c++ six.sidd-c++)
 add_sample(project_slant_to_output              cli-c++ io-c++ six-c++ six.sicd-c++ sio.lite-c++)
 add_sample(round_trip_six                       cli-c++ six.convert-c++ six.sicd-c++ six.sidd-c++)
